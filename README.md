@@ -1,4 +1,4 @@
-# Applied Machine Learning Assignment 1
+# Applied Machine Learning 
 
 ## 📚 Overview
 This notebook implements a neural network model to classify handwritten digits using the MNIST dataset. It covers all essential steps including preprocessing, model training, evaluation, and visualization.
